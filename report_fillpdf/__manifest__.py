@@ -7,7 +7,7 @@
     "author": "Creu Blanca," "Odoo Community Association (OCA)",
     "website": "http://github.com/oca/reporting-engine",
     "category": "Reporting",
-    "version": "13.0.1.0.0",
+    "version": "14.0.1.0.0",
     "license": "AGPL-3",
     "external_dependencies": {"python": ["fdfgen"], "bin": ["pdftk"]},
     "depends": ["base", "web"],
