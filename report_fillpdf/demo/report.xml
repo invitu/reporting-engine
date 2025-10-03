@@ -8,7 +8,7 @@
         <field name="name">report_fillpdf.partner_fillpdf</field>
         <field name="model">res.partner</field>
         <field name="report_type">fillpdf</field>
-        <field name="report_name">report_fillpdf.partner_fillpdf</field>
+        <field name="report_name">res_partner</field>
         <field name="report_file">res_partner</field>
     </record>
 </odoo>
